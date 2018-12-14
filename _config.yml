@@ -38,9 +38,8 @@ roles:
    start: 2014
    end: 2016
    employer: Microsoft (Consultant)
-   description: I worked on this project to develop various tools that operates the MSIT infrastructure and also works to deliver Data center capacity,
-optimize the usage of resources to drive down the operation costs.
- - title: Software Development Engineer in Test
+   description: I worked on this project to develop various tools that operates the MSIT infrastructure and also works to deliver Data center capacity, optimize the usage of resources to drive down the operation costs. 
+   title: Software Development Engineer in Test
    start: 2004
    end: 2012
    employer: Microsoft (Consultant)
