@@ -8,16 +8,12 @@ markdown: nagasmoorthy@gmail.com
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: (https://github.com/Microsoft/Phoenix)
+   url: https://github.com/Microsoft/Phoenix
  - title: StackOverflow
    url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/nagasundari-sivamoni-moorthy-56121a4b/
 
 #Any buzzword skills you want to include
 skills:
@@ -39,7 +35,7 @@ roles:
    end: 2016
    employer: Microsoft (Consultant)
    description: I worked on this project to develop various tools that operates the MSIT infrastructure and also works to deliver Data center capacity, optimize the usage of resources to drive down the operation costs. 
-   title: Software Development Engineer in Test
+ - title: Software Development Engineer in Test
    start: 2004
    end: 2012
    employer: Microsoft (Consultant)
@@ -52,8 +48,6 @@ education:
    school: Madurai Kamaraj University
 
 #List of interesting Github repo/projects to include - optional
-github:
- - https://github.com/Microsoft/Phoenix
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
